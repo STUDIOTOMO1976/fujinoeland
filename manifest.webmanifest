@@ -1,0 +1,33 @@
+{
+  "id": "/fujinoeland/",
+  "name": "ふじのえランド",
+  "short_name": "ふじのえ",
+  "description": "ふーぴょんと楽しむ、給食の世界の体験ランド。",
+  "lang": "ja",
+  "start_url": "./app.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#112946",
+  "theme_color": "#122c4a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./fu-pyon.webp",
+      "sizes": "779x780",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "./fu-pyon-64.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
